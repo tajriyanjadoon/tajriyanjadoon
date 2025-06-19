@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm Tajriyan Naeem
 
-<!--
-**tajriyanjadoon/tajriyanjadoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 5th Semester Software Engineering Student @ AUST (Abbottabad University of Science and Technology)  
+💡 Interested in Generative AI, Prompt Engineering, and Web Technologies  
+🌱 Currently learning Web Development (HTML, CSS, JavaScript, Responsive Design)  
+📚 Strong academic performer with CGPA: 4.0  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Tools
+
+**Languages**: C++, Java, Python, HTML, CSS, SQL  
+**AI/ML**: Prompt Engineering, Generative AI  
+**Design**: Canva, PowerPoint, Content Editing  
+**Soft Skills**: Communication, Teamwork, Problem Solving, Content Development  
+
+---
+
+## 🏆 Certifications
+
+- **Generative AI Training** – Advanced Telecom Services (ATS)  
+- **AI for Beginners** – HP LIFE & UNIDO  
+- **Certified Canva Expert** – MNIOPS  
+- **Social Media, Resume Writing, and Graphic Design** – Coursera
+
+
+## 🧠 Hackathons
+
+- **IBM Hackathon** – Participated in AI-powered solution development  
+- **ULSEF Gen AI Hackathon** – Explored creative GenAI tools with a team  
+
+---
+
+## 📫 Connect with Me
+
+📍 Abbottabad, Pakistan  
+📧 barzankhan611@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tajriyan-jadoon)  
+🔗 [GitHub](https://github.com/tajriyanjadoon/tajriyanjadoon)
+
+---
+
+> _“Learn continually – there’s always ‘one more thing’ to learn.” – Steve Jobs_
