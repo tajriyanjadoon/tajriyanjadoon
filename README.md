@@ -1,43 +1,21 @@
-# 👋 Hello, I'm Tajriyan Naeem
-
-🎓 5th Semester Software Engineering Student @ AUST (Abbottabad University of Science and Technology)  
-💡 Interested in Generative AI, Prompt Engineering, and Web Technologies  
-🌱 Currently learning Web Development (HTML, CSS, JavaScript, Responsive Design)  
-📚 Strong academic performer with CGPA: 4.0  
-
----
-
-## 🧠 Skills & Tools
-
-**Languages**: C++, Java, Python, HTML, CSS, SQL  
-**AI/ML**: Prompt Engineering, Generative AI  
-**Design**: Canva, PowerPoint, Content Editing  
-**Soft Skills**: Communication, Teamwork, Problem Solving, Content Development  
-
----
-
-## 🏆 Certifications
-
-- **Generative AI Training** – Advanced Telecom Services (ATS)  
-- **AI for Beginners** – HP LIFE & UNIDO  
-- **Certified Canva Expert** – MNIOPS  
-- **Social Media, Resume Writing, and Graphic Design** – Coursera
+# 💫 About Me:
+👋 Hello, I'm Tajriyan Naeem<br>🎓 5th Semester Software Engineering Student @ AUST (Abbottabad University of Science and Technology)<br>💡 Interested in Generative AI, Prompt Engineering, and Web Technologies<br>🌱 Currently learning Web Development (HTML, CSS, JavaScript, Responsive Design)<br>📚 Strong academic performer with CGPA: 4.0<br><br>🧠 Skills & Tools<br>Languages: C++, Java, Python, HTML, CSS, SQL<br>AI/ML: Prompt Engineering, Generative AI<br>Design: Canva, PowerPoint, Content Editing<br>Soft Skills: Communication, Teamwork, Problem Solving, Content Development<br><br>🏆 Certifications<br>Generative AI Training – Advanced Telecom Services (ATS)<br>AI for Beginners – HP LIFE & UNIDO<br>Certified Canva Expert – MNIOPS<br>Social Media, Resume Writing, and Graphic Design – Coursera<br>🧠 Hackathons<br>IBM Hackathon – Participated in AI-powered solution development<br>ULSEF Gen AI Hackathon – Explored creative GenAI tools with a team<br>📫 Connect with Me<br>📍 Abbottabad, Pakistan<br>📧 barzankhan611@gmail.com<br>🔗 LinkedIn<br>🔗 GitHub<br><br>“Learn continually – there’s always ‘one more thing’ to learn.” – Steve Jobs
 
 
-## 🧠 Hackathons
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tajriyan-jadoon/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barzankhan611@gmail.com) 
 
-- **IBM Hackathon** – Participated in AI-powered solution development  
-- **ULSEF Gen AI Hackathon** – Explored creative GenAI tools with a team  
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tajriyanjadoon&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tajriyanjadoon&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tajriyanjadoon&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=tajriyanjadoon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Connect with Me
-
-📍 Abbottabad, Pakistan  
-📧 barzankhan611@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tajriyan-jadoon)  
-🔗 [GitHub](https://github.com/tajriyanjadoon/tajriyanjadoon)
-
----
-
-> _“Learn continually – there’s always ‘one more thing’ to learn.” – Steve Jobs_
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
